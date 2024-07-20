@@ -1,0 +1,14 @@
+---
+title: startr.cloud
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include "component/head.njk" %}
+    <body style="--m:auto; --size:1rem">
+      {% include "component/header.njk" %}
+      {{ content | safe }}
+      {% include "component/footer.njk" %}
+      {% include "component/scripts.njk" %}
+    </body>
+  </html>
+</html>
