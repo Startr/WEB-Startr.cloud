@@ -1,14 +1,20 @@
-<header style="--bg:#1b1b1b; --c:#f1f1f1; --p:20px;">
+<header style="
+--w-xl: calc(100vw + 1rem);
+--t-xl: translate(calc(((100vw - var(--maxw-md)) / -2) - 0rem));
+--bg:#1b1b1b; --c:#f1f1f1; --p:20px;">
   <div style="--d:flex; --jc:space-between; --ai:center;">
     <div style="--d:flex; --ai:center;">
-      <img src="https://assets.codepen.io/170881/logo.png?width=400&amp;height=400&amp;format=avif" alt="Startr Logo" style="--mr:10px; --br:50px; --d:none; --d-sm:block; --w:50px; --h:50px">
-      <h1 style="--size:16px; --m:0; --d:block; --d-sm:none;">Startr</h1>
+      <a href="/"><img src="https://assets.codepen.io/170881/logo.png?width=400&amp;height=400&amp;format=avif"
+          alt="Startr Logo" style="--br:50px; --w:50px; --h:50px">
+        <h1 style="--size:16px; --m:0; --d:none;">Startr</h1>
+      </a>
     </div>
     <nav style="--size:16px; --d:flex; --ai: center; gap:15px;">
       <a href="/#home" style="--d:none; --d-sm:block;--c:#f1f1f1;">Home</a>
       <a href="/#about" style="--d:none; --d-sm:block;--c:#f1f1f1;">Service</a>
       <a href="/#projects" style="--d:none; --d-sm:block;--c:#f1f1f1;">Projects</a>
-      <a href="/#consult"><button style="--bg:#f1f1f1; --c:#1b1b1b; --p:10px 20px; --b:none; --radius:5px;">BOOK US</button></a>
+      <a href="/#consult"><button style="--bg:#f1f1f1; --c:#1b1b1b; --p:10px 20px; --b:none; --radius:5px;">BOOK
+          US</button></a>
     </nav>
   </div>
 </header>
