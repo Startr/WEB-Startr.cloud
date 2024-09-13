@@ -6,11 +6,17 @@
 
 ## Why join Startr.Team and Startr.Cloud?
 
-- **Innovative Projects**: Work on groundbreaking projects that make a real difference.
-- **Collaborative Environment**: Join a team where your ideas are valued and collaboration is key.
-- **Equity Opportunities**: Benefit from our sweat [equity offerings](/job/equity) and grow with the company.
-- **Flexible Hours**: Full-time and part-time positions to fit your lifestyle.
-- **Professional Growth**: Opportunities for advancement and continuous learning.
+- **Innovative Projects** - **Collaborative Environment** - **[Equity Opportunities](/job/equity)** - **Flexible Hours** - **Remote Work** - **Competitive Salaries** - **Professional Growth** - **Continuous Learning**
+
+At Startr, you'll work on groundbreaking projects that truly make a difference. We tackle challenges that push the boundaries of technology, giving you the chance to contribute to solutions that impact real people and industries.
+
+Join a team where your ideas are not just welcomed––they're valued. Collaboration is key here, and you'll be part of a supportive group that thrives on sharing knowledge and working together to achieve common goals.
+
+Grow with us by taking part in our sweat equity program. As the company succeeds, so do you. We believe in rewarding hard work and dedication by offering a stake in our collective future.
+
+We understand that life doesn't always fit into a 9–to–5 schedule. That's why we offer both full–time and part–time positions to suit your lifestyle. Find a work schedule that balances with your personal commitments.
+
+Your development matters to us. With plenty of opportunities for advancement and continuous learning, you'll be able to expand your skills and progress in your career while being part of our team.
 
 ---
 
@@ -18,7 +24,7 @@
 
 ### Full-Stack Developers
 
-#### **Senior Full-Stack Developer (Full-Time)**
+#### **Senior Full-Stack Developer (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 1.0%
@@ -30,7 +36,7 @@
   - Experience with RESTful APIs
   - Strong problem-solving skills
 
-#### **Junior Full-Stack Developer (Part-Time)**
+#### **Junior Full-Stack Developer (Part–time)**
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.25%
@@ -56,7 +62,7 @@
 
 ### Frontend Developers
 
-#### **Frontend Developer (Full-Time)**
+#### **Frontend Developer (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.8%
@@ -67,7 +73,7 @@
   - Expertise in React or Vue.js
   - Strong design sense
 
-#### **Junior Frontend Developer (Part-Time)**
+#### **Junior Frontend Developer (Part–time)**
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.1%
@@ -81,7 +87,7 @@
 
 ### Backend Developers
 
-#### **Backend Developer (Full-Time)**
+#### **Backend Developer (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.8%
@@ -92,7 +98,7 @@
   - Proficiency in Node.js, Python, or Go
   - Experience with databases like PostgreSQL or MongoDB
 
-#### **Junior Backend Developer (Part-Time)**
+#### **Junior Backend Developer (Part–time)**
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.1%
@@ -106,7 +112,7 @@
 
 ### DevOps Engineers
 
-#### **DevOps Engineer (Full-Time)**
+#### **DevOps Engineer (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.7%
@@ -117,7 +123,7 @@
   - Expertise in AWS, Docker, and Kubernetes
   - Knowledge of CI/CD pipelines
 
-#### **Junior DevOps Engineer (Part-Time)**
+#### **Junior DevOps Engineer (Part–time)**
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.0875%
@@ -131,7 +137,7 @@
 
 ### Marketing Specialists
 
-#### **Marketing Specialist (Full-Time)**
+#### **Marketing Specialist (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.6%
@@ -142,7 +148,7 @@
   - Experience with digital marketing strategies
   - Strong communication skills
 
-#### **Junior Marketing Specialist (Part-Time)**
+#### **Junior Marketing Specialist (Part–time)**
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.075%
@@ -156,7 +162,7 @@
 
 ### Sales Representatives
 
-#### **Sales Representative (Full-Time)**
+#### **Sales Representative (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.6%
@@ -167,7 +173,7 @@
   - Excellent negotiation skills
   - Ability to meet targets
 
-#### **Junior Sales Representative (Part-Time)**
+#### **Junior Sales Representative (Part–time)**
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.075%
@@ -181,7 +187,7 @@
 
 ### Customer Support Representatives
 
-#### **Customer Support Representative (Full-Time)**
+#### **Customer Support Representative (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.5%
@@ -192,7 +198,7 @@
   - Excellent communication skills
   - Problem-solving abilities
 
-#### **Junior Customer Support Representative (Part-Time)**
+#### **Junior Customer Support Representative (Part–time)**
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.0625%
@@ -230,7 +236,7 @@
 
 ## Join Us and Shape the Future!
 
-At **Startr.Team**, we believe in the power of collaboration and innovation. If you're passionate, driven, and ready to make an impact, apply today and let's build something amazing together!
+At **Startr**, we believe in the power of collaboration and innovation. If you're passionate, driven, and ready to make an impact, apply today and let's build something amazing together!
 
 ---
 
