@@ -1,4 +1,4 @@
-
+{style="--m: 0 0.6em"}
 # Startr.Team Equity offer example and table
 
 ---
@@ -25,12 +25,17 @@ By grasping these concepts, you'll be better equipped to navigate your involveme
 
 Meet Casey, a full-time developer who just joined us at Startr. As part of the employment package, Casey received an equity offer with some key terms. Let's break down what these terms mean.
 
+
 #### Casey's Equity Package—**A Hypothetical Example**
+
+{style="	--of:scroll;"}
+#####
 
 |Job Title|Weekly Hours|Equity Percentage|Vesting Schedule|Cliff Period|
 |---|---|---|---|---|
 |Full-Stack Developer|40|1.0%|4 years|1 year|
 
+#####
 Casey works 40 hours per week as a Full-Stack Developer and has an equity percentage of 1.0%. This means Casey will own a portion of the company's assets and earnings equal to the number of shares held.
 
 The vesting schedule shows that Casey will gradually gain full ownership of the shares over 4 years—a common practice in the industry. Here's how Casey's equity builds up over time:
@@ -44,8 +49,11 @@ The 1-year cliff period ensures that Casey must stay with the company for at lea
 
 By understanding these terms, Casey—and you—can make informed decisions about involvement with Startr.
 
+
 ## Sweat Equity Offerings Table
 
+{style="	--of:scroll;"}
+###
 | Job Title                    | Weekly Hours | Equity Percentage | Vesting Schedule | Cliff Period |
 | ---------------------------- | ------------ | ----------------- | ---------------- | ------------ |
 |                              |              |                   |                  |              |
@@ -133,6 +141,7 @@ By understanding these terms, Casey—and you—can make informed decisions abou
 | Junior Expert Advisor        | 1            | 0.025%            | 4 years          | 1 year       |
 | Intern Expert Advisor        | 2            | 0.02%             | 4 years          | 1 year       |
 | Intern Expert Advisor        | 1            | 0.01%             | 4 years          | 1 year       |
+
 ### Explanation
 
 1. **Full-Stack Developer**:
