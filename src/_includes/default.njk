@@ -10,7 +10,9 @@ title: startr.cloud
     --minh: 100vh;
     --maxw-md: 80rem; ">
       {% include "component/header.njk" %}
+      <section style="--m:1em; --m-lg:auto" >
       {{ content | safe }}
+      </section>
       {% include "component/footer.njk" %}
       {% include "component/scripts.njk" %}
     </body>
