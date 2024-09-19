@@ -1,3 +1,4 @@
+{style="--m: 0 0.6em"}
 # Join the Startr.Team Family: Exciting Opportunities Await!
 
 **Startr** is on a mission to revolutionize the way teams collaborate and innovate. We're a dynamic startup with a passion for cutting-edge technology and a collaborative culture that empowers every team member. If you're ready to make an impact and grow with us, check out our exciting job opportunities below!

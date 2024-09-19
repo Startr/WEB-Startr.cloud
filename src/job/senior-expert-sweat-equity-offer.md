@@ -1,4 +1,4 @@
-
+{style="--m: 0 0.6em"}
 # Example Senior Expert Sweat Equity Offer
 
 ---
