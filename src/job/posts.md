@@ -5,19 +5,26 @@
 
 ---
 
+{style="--d:flex; --fd:column; --ai:center; --mt:2rem"}
 ## Why join Startr.Team and Startr.Cloud?
 
-- **Innovative Projects** - **Collaborative Environment** - **[Equity Opportunities](/job/equity)** - **Flexible Hours** - **Remote Work** - **Competitive Salaries** - **Professional Growth** - **Continuous Learning**
+---{style="--w:80%"}
 
-At Startr, you'll work on groundbreaking projects that truly make a difference. We tackle challenges that push the boundaries of technology, giving you the chance to contribute to solutions that impact real people and industries.
+☑ **Innovative Projects** ☑ **Collaborative Environment** ☑ **[Equity Opportunities](/job/equity){style="--p:0.2em;--levitate-hvr:4; --br:0.2em"}** 
 
-Join a team where your ideas are not just welcomed––they're valued. Collaboration is key here, and you'll be part of a supportive group that thrives on sharing knowledge and working together to achieve common goals.
+☑ **Flexible Hours** ☑ **Remote Work** ☑ **Competitive Salaries** ☑ **Direct Profit Sharing** 
 
-Grow with us by taking part in our sweat equity program. As the company succeeds, so do you. We believe in rewarding hard work and dedication by offering a stake in our collective future.
+☑ **Professional Growth** ☑ **Continuous Learning**
 
-We understand that life doesn't always fit into a 9–to–5 schedule. That's why we offer both full–time and part–time positions to suit your lifestyle. Find a work schedule that balances with your personal commitments.
+---{style="--w:80%; --mb:2rem"}
 
-Your development matters to us. With plenty of opportunities for advancement and continuous learning, you'll be able to expand your skills and progress in your career while being part of our team.
+At Startr, you'll work on groundbreaking projects that truly make a difference. We tackle challenges that push the boundaries of technology, giving you the chance to contribute to solutions that impact real people and industries. Grow with us by taking part in our sweat equity program. As the company succeeds, so do you. We believe in rewarding hard work and dedication by offering a stake in our collective future.
+
+We understand that life doesn't always fit into a 9–to–5 schedule. That's why we offer both full–time and part–time positions to suit your lifestyle. Find a work schedule that balances with your personal commitments. Your development matters to us. With plenty of opportunities for advancement and continuous learning, you'll be able to expand your skills and progress in your career while being part of our team.
+
+Come and join a team where your ideas are not just welcomed––they're valued. Collaboration is key here, and you'll be part of a supportive group that thrives on sharing knowledge and working together to achieve common goals.
+
+[Awesome! I'm ready to apply!](#apply-now){style="--p:1em;--levitate-hvr:4; --br:0.2em"}
 
 ---
 
@@ -25,11 +32,11 @@ Your development matters to us. With plenty of opportunities for advancement and
 
 ### Full-Stack Developers
 
-#### **Senior Full-Stack Developer (Full–time)**
+#### **Senior Full-Stack Developer (Full–time)**{#senior-full-stack-developer}
 
 - **Hours**: 40 hours/week
 - **Equity**: 1.0%
-- **Location**: Remote or On-site
+- **Location**: Remote
 - **Role**: Lead the development of scalable web applications using modern technologies like React, Node.js, and MongoDB.
 - **Requirements**:
   - 5+ years of experience in full-stack development
@@ -37,7 +44,9 @@ Your development matters to us. With plenty of opportunities for advancement and
   - Experience with RESTful APIs
   - Strong problem-solving skills
 
-#### **Junior Full-Stack Developer (Part–time)**
+[Apply Now](#apply-now)
+
+#### **Junior Full-Stack Developer (Part–time)**{#junior-full-stack-developer}
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.25%
@@ -48,7 +57,9 @@ Your development matters to us. With plenty of opportunities for advancement and
   - Familiarity with frontend and backend technologies
   - Eagerness to learn and grow
 
-#### **Intern Full-Stack Developer**
+[Apply Now](#apply-now)
+
+#### **Intern Full-Stack Developer**{#intern-full-stack-developer}
 
 - **Hours**: 10 hours/week
 - **Equity**: 0.05%
@@ -59,20 +70,24 @@ Your development matters to us. With plenty of opportunities for advancement and
   - Basic understanding of web development
   - Passion for coding
 
+[Apply Now](#apply-now)
+
 ---
 
-### Frontend Developers
+### Frontend Developers{#frontend-developers}
 
 #### **Frontend Developer (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.8%
-- **Location**: Remote or On-site
+- **Location**: Remote
 - **Role**: Create intuitive user interfaces and enhance user experience.
 - **Requirements**:
   - 3+ years of experience in frontend development
   - Expertise in React or Vue.js
   - Strong design sense
+
+[Apply Now](#apply-now)
 
 #### **Junior Frontend Developer (Part–time)**
 
@@ -84,20 +99,24 @@ Your development matters to us. With plenty of opportunities for advancement and
   - Some experience with JavaScript frameworks
   - Attention to detail
 
+[Apply Now](#apply-now)
+
 ---
 
-### Backend Developers
+### Backend Developers{#backend-developers}
 
 #### **Backend Developer (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.8%
-- **Location**: Remote or On-site
+- **Location**: Remote 
 - **Role**: Develop robust backend systems and APIs.
 - **Requirements**:
   - 3+ years of experience in backend development
   - Proficiency in Node.js, Python, or Go
-  - Experience with databases like PostgreSQL or MongoDB
+  - Experience with databases like PostgreSQL, MongoDB, MySQL, or SQLite :rocket:
+
+[Apply Now](#apply-now)
 
 #### **Junior Backend Developer (Part–time)**
 
@@ -109,34 +128,41 @@ Your development matters to us. With plenty of opportunities for advancement and
   - Basic understanding of server-side programming
   - Willingness to learn new technologies
 
+[Apply Now](#apply-now)
+
 ---
 
-### DevOps Engineers
+### DevOps Engineers{#devops-engineers}
 
 #### **DevOps Engineer (Full–time)**
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.7%
-- **Location**: Remote or On-site
+- **Location**: Remote 
 - **Role**: Manage our cloud infrastructure and ensure seamless deployment.
 - **Requirements**:
   - 3+ years of experience in DevOps
   - Expertise in AWS, Docker, and Kubernetes
   - Knowledge of CI/CD pipelines
 
+[Apply Now](#apply-now)
+
 #### **Junior DevOps Engineer (Part–time)**
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.0875%
-- **Location**: Remote
-- **Role**: Support the DevOps team in infrastructure maintenance.
+- **Location**: Remote or part time on-site (Montreal Canada) 
+  **Role**: Learn DevOps and participate in creative coding challenges
 - **Requirements**:
   - Familiarity with cloud services
   - Basic scripting skills
+  - Enthusiasm !!!
+
+[Apply Now](#apply-now)
 
 ---
 
-### Marketing Specialists
+### Marketing Specialists{#marketing-specialists}
 
 #### **Marketing Specialist (Full–time)**
 
@@ -149,6 +175,8 @@ Your development matters to us. With plenty of opportunities for advancement and
   - Experience with digital marketing strategies
   - Strong communication skills
 
+[Apply Now](#apply-now)
+
 #### **Junior Marketing Specialist (Part–time)**
 
 - **Hours**: 20 hours/week
@@ -158,6 +186,8 @@ Your development matters to us. With plenty of opportunities for advancement and
 - **Requirements**:
   - Some experience in marketing or related field
   - Creative mindset
+
+[Apply Now](#apply-now)
 
 ---
 
@@ -174,6 +204,8 @@ Your development matters to us. With plenty of opportunities for advancement and
   - Excellent negotiation skills
   - Ability to meet targets
 
+[Apply Now](#apply-now)
+
 #### **Junior Sales Representative (Part–time)**
 
 - **Hours**: 20 hours/week
@@ -183,6 +215,8 @@ Your development matters to us. With plenty of opportunities for advancement and
 - **Requirements**:
   - Strong interpersonal skills
   - Enthusiasm for sales
+
+[Apply Now](#apply-now)
 
 ---
 
@@ -199,6 +233,8 @@ Your development matters to us. With plenty of opportunities for advancement and
   - Excellent communication skills
   - Problem-solving abilities
 
+[Apply Now](#apply-now)
+
 #### **Junior Customer Support Representative (Part–time)**
 
 - **Hours**: 20 hours/week
@@ -208,6 +244,8 @@ Your development matters to us. With plenty of opportunities for advancement and
 - **Requirements**:
   - Friendly demeanor
   - Quick learner
+
+[Apply Now](#apply-now)
 
 ---
 
@@ -223,15 +261,20 @@ Your development matters to us. With plenty of opportunities for advancement and
   - 10+ years of industry experience
   - Proven track record in leadership roles
 
+[Apply Now](#apply-now)
+
 ---
 
 ## How to Apply
 
 **Ready to take the next step?** We'd love to hear from you!
 
-- **Email**: Send your resume and a brief cover letter to [careers@startr.team](mailto:careers@startr.team).
-- **Subject Line**: Include the position you're applying for.
-- **Deadline**: Applications are reviewed on a rolling basis.
+We've made the application process simple and straightforward. Here's how you can apply for a position at Startr either email or by filling out the form below:
+
+> *If you're applying by email:*
+> - **Email**: Send your resume and a brief cover letter to [careers@startr.team](mailto:careers@startr.team).
+> - **Subject Line**: Include the position you're applying for.
+> - **Deadline**: Applications are reviewed on a rolling basis.
 
 ---
 
@@ -242,3 +285,42 @@ At **Startr**, we believe in the power of collaboration and innovation. If you'r
 ---
 
 *Note: Equity percentages are based on our sweat equity program with a standard vesting schedule of 4 years and a 1-year cliff period.*
+
+---
+
+![Startr.Team Logo](https://image.startr.cloud/1280x480/collaborate){style="--mt:2rem; --d:block; --maxw: 100%; --radius: 5px; --shadow: 0 2px 4px rgba(0, 0, 0, 0.1)"}
+
+{style="--d:flex; --fd:column; --gap:15px; --ai:center; --b:1px solid #f0f0f0; --p:20px; --radius:5px; --maxw:60rem; --m:2rem auto; --shadow:3; ;--levitate-hvr:8;"}
+### Apply Now{#apply-now }
+
+Ready to join the Startr.Team family? Fill out the form below to apply for one of our exciting positions!
+
+---
+
+<form id="apply" style="--d:flex; --fd:column; --gap:15px; --maxw:60rem;" name="startr.cloud job_apply"
+  netlify>
+  <input type="text" placeholder="Your Name" style="--p:10px; --radius:5px;">
+  <input type="email" placeholder="Your Email" style="--p:10px; --radius:5px; ">
+  <input type="text" placeholder="Position" style="--p:10px; --radius:5px; ">
+  <textarea placeholder="Your Message" style="--p:10px; --radius:5px; --minh:100px;"></textarea>
+  <label for="resume" style="--p:10px;">Upload Resume</label>
+  <input type="file" style="--p:10px; --radius:5px; --b:none; --radius:5px; 
+    --scale-hvr:106%">
+  <button type="submit"
+    style="
+    --bg:lightblue; 
+    --c:#1b1b1b; 
+    --p:10px 20px; 
+    --b:none; 
+    --radius:5px; 
+    --scale-hvr:106%">Apply Now
+    ⇨</button>
+</form>
+
+---
+
+---
+
+We can't wait to hear from you! 🚀 Apply now and let's build something amazing together!
+
+---
