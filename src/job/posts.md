@@ -8,7 +8,12 @@
 {style="--d:flex; --fd:column; --ai:center; --mt:2rem"}
 ## Why join Startr.Team and Startr.Cloud?
 
----{style="--w:80%"}
+
+
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 0 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+### reasons to join us{style="--d:none}
+
+---{style="--w:90%"}
 
 ☑ **Innovative Projects** ☑ **Collaborative Environment** ☑ **[Equity Opportunities](/job/equity){style="--p:0.2em;--levitate-hvr:4; --br:0.2em"}** 
 
@@ -16,7 +21,7 @@
 
 ☑ **Professional Growth** ☑ **Continuous Learning**
 
----{style="--w:80%; --mb:2rem"}
+---{style="--w:90%; --mb:2rem"}
 
 At Startr, you'll work on groundbreaking projects that truly make a difference. We tackle challenges that push the boundaries of technology, giving you the chance to contribute to solutions that impact real people and industries. Grow with us by taking part in our sweat equity program. As the company succeeds, so do you. We believe in rewarding hard work and dedication by offering a stake in our collective future.
 
@@ -26,12 +31,11 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Awesome! I'm ready to apply!](#apply-now){style="--p:1em;--levitate-hvr:4; --br:0.2em"}
 
----
-
 ## Open Positions
 
 ### Full-Stack Developers
 
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
 #### **Senior Full-Stack Developer (Full–time)**{#senior-full-stack-developer}
 
 - **Hours**: 40 hours/week
@@ -46,6 +50,7 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Apply Now](#apply-now)
 
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
 #### **Junior Full-Stack Developer (Part–time)**{#junior-full-stack-developer}
 
 - **Hours**: 20 hours/week
@@ -59,6 +64,7 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Apply Now](#apply-now)
 
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
 #### **Intern Full-Stack Developer**{#intern-full-stack-developer}
 
 - **Hours**: 10 hours/week
@@ -76,7 +82,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 ### Frontend Developers{#frontend-developers}
 
-#### **Frontend Developer (Full–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Frontend Developer (Full–time)**{#frontend-developer}
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.8%
@@ -89,7 +96,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Apply Now](#apply-now)
 
-#### **Junior Frontend Developer (Part–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Junior Frontend Developer (Part–time)**{#junior-frontend-developer}
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.1%
@@ -105,7 +113,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 ### Backend Developers{#backend-developers}
 
-#### **Backend Developer (Full–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Backend Developer (Full–time)**{#backend-developer}
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.8%
@@ -118,7 +127,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Apply Now](#apply-now)
 
-#### **Junior Backend Developer (Part–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Junior Backend Developer (Part–time)**{#junior-backend-developer}
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.1%
@@ -134,7 +144,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 ### DevOps Engineers{#devops-engineers}
 
-#### **DevOps Engineer (Full–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **DevOps Engineer (Full–time)**{#devops-engineer}
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.7%
@@ -147,7 +158,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Apply Now](#apply-now)
 
-#### **Junior DevOps Engineer (Part–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Junior DevOps Engineer (Part–time)**{#junior-devops-engineer}
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.0875%
@@ -164,7 +176,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 ### Marketing Specialists{#marketing-specialists}
 
-#### **Marketing Specialist (Full–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Marketing Specialist (Full–time)**{#marketing-specialist}
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.6%
@@ -177,7 +190,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Apply Now](#apply-now)
 
-#### **Junior Marketing Specialist (Part–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Junior Marketing Specialist (Part–time)**{#junior-marketing-specialist}
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.075%
@@ -193,7 +207,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 ### Sales Representatives
 
-#### **Sales Representative (Full–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Sales Representative (Full–time)**{#sales-representative}
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.6%
@@ -206,7 +221,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Apply Now](#apply-now)
 
-#### **Junior Sales Representative (Part–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Junior Sales Representative (Part–time)**{#junior-sales-representative}
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.075%
@@ -222,7 +238,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 ### Customer Support Representatives
 
-#### **Customer Support Representative (Full–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Customer Support Representative (Full–time)**{#customer-support-representative}
 
 - **Hours**: 40 hours/week
 - **Equity**: 0.5%
@@ -235,7 +252,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 [Apply Now](#apply-now)
 
-#### **Junior Customer Support Representative (Part–time)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Junior Customer Support Representative (Part–time)**{#junior-customer-support-representative}
 
 - **Hours**: 20 hours/week
 - **Equity**: 0.0625%
@@ -251,7 +269,8 @@ Come and join a team where your ideas are not just welcomed––they're valued.
 
 ### Senior Expert Advisors
 
-#### **Senior Expert Advisor (Consultant)**
+{style="--d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --m: 2rem auto;--shadow: 3;--levitate-hvr: 8;"}
+#### **Senior Expert Advisor (Consultant)**{#senior-expert-advisor}
 
 - **Hours**: 2 hours/week
 - **Equity**: 0.1%
@@ -299,12 +318,12 @@ Ready to join the Startr.Team family? Fill out the form below to apply for one o
 
 <form id="apply" style="--d:flex; --fd:column; --gap:15px; --maxw:60rem;" name="startr.cloud job_apply"
   netlify>
-  <input type="text" placeholder="Your Name" style="--p:10px; --radius:5px;">
-  <input type="email" placeholder="Your Email" style="--p:10px; --radius:5px; ">
-  <input type="text" placeholder="Position" style="--p:10px; --radius:5px; ">
-  <textarea placeholder="Your Message" style="--p:10px; --radius:5px; --minh:100px;"></textarea>
+  <input type="text" name="name" placeholder="Your Name" style="--p:10px; --radius:5px;">
+  <input type="email" name="email" placeholder="Your Email" style="--p:10px; --radius:5px; ">
+  <input type="text" name="position"  placeholder="Position" style="--p:10px; --radius:5px; ">
+  <textarea name="message" placeholder="Your Message" style="--p:10px; --radius:5px; --minh:100px;"></textarea>
   <label for="resume" style="--p:10px;">Upload Resume</label>
-  <input type="file" style="--p:10px; --radius:5px; --b:none; --radius:5px; 
+  <input type="file" name="attachment" style="--p:10px; --radius:5px; --b:none; --radius:5px; 
     --scale-hvr:106%">
   <button type="submit"
     style="
