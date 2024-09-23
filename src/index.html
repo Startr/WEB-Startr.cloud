@@ -1,11 +1,19 @@
 
 
     <section id="hero" style="
+      --m:0 -1em; --m-sm:auto;
       --w-xl: calc(100vw + 1rem);
       --t-xl: translate(calc(((100vw - var(--maxw-md)) / -2) - 0rem));
-    --bg:url('https://image.startr.cloud/1200x600/hd black'); --bgs:cover; --p:60px 20px;">
+      --bg:url('https://image.startr.cloud/1200x600/hd black'); --bgs:cover; --p:60px 20px;
+      --d:flex;
+      --fd:row-reverse;
+      ">
       <div
-        style="--c:#ffffff; --maxw:600px; --p:1em; --p-sm:2em; --m-sm: 0 2em ;backdrop-filter: blur(10px) brightness(60%); -webkit-backdrop-filter: blur(10px) brightness(60%); --br:1em; border: solid 1px !important; ">
+        style="
+          --c:#ffffff;
+          --maxw:600px; --p:1em; --p-sm:2em; --m-sm: 0 2em ;
+          backdrop-filter: blur(10px) brightness(60%);
+          --br:1em; border: solid 1px !important; ">
         <h2 style="--size:48px">Let us help you create something wonderful</h2>
         <p style="--size:18px;">Tools, Code, Creative Architecture, Travel, and Adventures</p>
       </div>
@@ -15,13 +23,16 @@
       --p-sm: 3em; 
       --bg:#1b1b1b; 
       --c:#f1f1f1;
+      --m:0 -1em; --m-sm:auto;
       --w-xl: calc(100vw + 1rem);
       --t-xl: translate(calc(((100vw - var(--maxw-md)) / -2) - 0rem));
       ">
-      <h2 style="--size:36px;">About Us</h2>
-      <p style="--size:18px;">We strive to capture life's most precious moments, weaving a tapestry of artistry and a
-        hint of enchanting magic with the timeless essence of the human experience. :D</p>
-      <button style="--bg:#f1f1f1; --c:#1b1b1b; --p:10px 20px; --b:none; --radius:5px;">LEARN MORE</button>
+      <div style="--maxw:66rem; --m:auto">
+        <h2 style="--size:36px;">About Us</h2>
+        <p style="--size:18px;">We strive to capture life's most precious moments, weaving a tapestry of artistry and a
+          hint of enchanting magic with the timeless essence of the human experience. :D</p>
+        <button style="--bg:#f1f1f1; --c:#1b1b1b; --p:10px 20px; --b:none; --radius:5px;">LEARN MORE</button>
+      </div>
     </section>
 
     <section id="projects" style="--p:60px 20px; --p-sm: 3em;">
@@ -30,7 +41,7 @@
       <div style="--d:grid; --gtc:repeat(auto-fit, minmax(300px, 1fr)); gap:2em;">
 
         <div style="--bg:#ffffff;">
-          <img src="/img/startr.style_02.png" alt="Style made simple"
+          <img src="/img/startr.style_02.webp" alt="Style made simple"
             style="--w:100%; --radius:5px; --objf:cover; aspect-ratio: 1">
           <h3 style="--size:24px;"><a href="https://startr.style">Startr.Style</a></h3>
           <p>A Utility Complete CSS Framework that's less than 80k, 16kb Zipped!
@@ -38,13 +49,13 @@
         </div>
 
         <div style="--bg:#ffffff;">
-          <img src="https://image.startr.cloud/402x402/hacker" alt="A Symphony by the Seaside" style="--w:100%; --radius:5px;">
+          <img src="https://image.startr.cloud/694x694/hacker" alt="A Symphony by the Seaside" style="--w:100%; --radius:5px;">
           <h3 style="--size:24px;"><a href="https://startr.sh/">Startr.Sh</a></h3>
           <p>Do you want to get "startrd" creating? Startr.sh simplifies and standardizes creating webapps.</p>
         </div>
 
         <div style="--bg:#ffffff;;">
-          <img src="https://image.startr.cloud/402x403" alt="Lonely Life at the Baltimore"
+          <img src="https://image.startr.cloud/694x693" alt="Lonely Life at the Baltimore"
             style="--w:100%; --radius:5px;">
           <h3 style="--size:24px;"><a href="https://www.sage.education/">Sage.Education</a></h3>
           <p>Empowering learners of all ages with AI tools. Sage Education provides easy access to the most advanced
@@ -52,7 +63,7 @@
         </div>
 
         <div style="--bg:#ffffff;">
-          <img src="/img/slider-ffpf.jpg" alt="FFPF Making a Difference"
+          <img src="/img/slider-ffpf.webp" alt="FFPF Making a Difference"
             style="--w:100%; --radius:5px; --objf:cover; aspect-ratio: 1; --objp: -100px">
           <h3 style="--size:24px;"><a href="https://www.ffpf.org/">FFPF</a></h3>
           <p>Freedom from Poverty Foundation is a non-profit foundation working to break the cycle of poverty.</p>
@@ -60,7 +71,7 @@
 
 
         <div style="--bg:#ffffff;">
-          <img src="/img/robot_in_a_can_thinking_preville.png" alt="A Symphony by the Seaside"
+          <img src="/img/robot_in_a_can_thinking_preville.webp" alt="A Symphony by the Seaside"
             style="--w:100%; --radius:5px; --objf:cover; aspect-ratio: 1">
           <h3 style="--size:24px;"><a href="https://robotinacan.com/">Robot in a Can</a></h3>
           <p>The world needs more curious, creative, and confident kids. RIAC creates kits, coding activities, & much
