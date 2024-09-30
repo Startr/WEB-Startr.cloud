@@ -1,4 +1,4 @@
-{style="--m: auto; --d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --shadow: 3;--levitate-hvr: 8;"}
+{style="--m: 1rem auto; --d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --shadow: 3;--levitate-hvr: 8;"}
 # **Flexible Work Policy**
 
 At Startr LLC, we value flexibility. We trust our team to deliver excellence, wherever they choose to work.
@@ -31,6 +31,7 @@ Maintain a healthy work-life balance. Flexible work means you can manage your ti
 
 Respect each other’s choices. Embrace the diversity of work environments. Trust and mutual respect are the foundation of our flexible work culture. We support one another with courage and honesty. Our respect for diversity unites us.
 
+{style="--m: 1rem auto; --d: flex; --fd: column;--gap: 15px; --ai: center; --b: 1px solid #f0f0f0; --p: 20px;--radius: 5px; --maxw: 60rem; --shadow: 3;--levitate-hvr: 8;"}
 # **Conclusion**
 
 Flexibility fuels our success. Choose the work style that suits you best and contribute to our collective achievement. Together, we build a dynamic and thriving Startr LLC.
