@@ -6,16 +6,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="description"
-      content="startr.cloud is a website dedicated to showcasing the best of Canada, 
-    from AI innovations to the arts, nature, and fun activities."
-    />
+    <meta name="description" content="startr.cloud is a website dedicated to showcasing the best of Canada, 
+    from AI innovations to the arts, nature, and fun activities." />
 
-    <meta
-      name="keywords"
-      content="AI, arts, nature, fun, technology, education, creativity, innovation"
-    />
+    <meta name="keywords" content="AI, arts, nature, fun, technology, education, creativity, innovation" />
     <meta name="author" content="startr.cloud" />
     <meta name="robots" content="index, follow" />
     <meta name="revisit-after" content="1 days" />
@@ -40,7 +34,17 @@
     <link rel="apple-touch-icon" sizes="512x512" href="/assets/apple-touch-icon-512x512.png" />
     <link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16" />
     <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32" />
-    
+
+    <!-- Include Swup (last, to avoid interference with initializations) -->
+    <script src="https://unpkg.com/swup@4" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+      const swup = new Swup();
+      console.log('Swup is running');
+      // Reapply smooth scrolling after Swup content is replaced
+      
+    </script>
+
+
     <!-- Include Startr Style CSS -->
     <link rel="stylesheet" href="https://startr.style/style.min.css" />
     <style>
@@ -55,6 +59,29 @@
         --oklch-dark-yellow: oklch(75%, 0.22, 90);
         --oklch-light-gray: oklch(90%, 0.01, 0);
         --oklch-dark-gray: oklch(20%, 0+5, 150);
+      }
+
+
+      html.is-changing .transition-fade {
+        view-transition-name: main;
+      }
+
+      ::view-transition-old(main) {
+        animation: fade 0.5s ease-in-out both;
+      }
+
+      ::view-transition-new(main) {
+        animation: fade 0.5s ease-in-out both reverse;
+      }
+
+      @keyframes fade {
+        from {
+          opacity: 1;
+        }
+
+        to {
+          opacity: 0;
+        }
       }
     </style>
 
