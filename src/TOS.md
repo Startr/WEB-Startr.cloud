@@ -217,18 +217,17 @@ There may be information on the Services that contains typographical errors, ina
 
 ## 13. DISCLAIMER
 
-**Using Our Services: What to Expect**
-======================================
+### **Using Our Services: What to Expect**
 
-### No Promises
+#### No Promises
 
 We provide the services on an as-is and as-available basis. You use them at your own risk. We can't promise that they'll always work perfectly, or that the information you get from them will be accurate.
 
-### No Warranties
+#### No Warranties
 
 We don't make any promises, implied or otherwise, about the services, including that they'll work for a particular purpose or that they'll be free of errors.
 
-### Limiting Our Responsibility
+#### Limiting Our Responsibility
 
 We won't be responsible for:
 
@@ -239,7 +238,7 @@ We won't be responsible for:
 * Bugs or viruses transmitted through the services by third parties
 * Errors or omissions in the services, or any losses that might result from using them
 
-### Third-Party Services
+#### Third-Party Services
 
 We don't endorse, guarantee, or take responsibility for products or services advertised or offered by third-party providers through our services. When dealing with these providers, use your best judgment and caution.
 
@@ -249,11 +248,11 @@ We don't endorse, guarantee, or take responsibility for products or services adv
 
 We are not responsible for any damages you or others might experience from using our services. This includes lost profits, revenue, data, or other losses, even if we knew they might occur.
 
-### Limiting Our Liability
+#### Limiting Our Liability
 
 Regardless of the reason or type of claim, our liability to you will never exceed the amount you paid to us.
 
-### Exceptions to This Rule
+#### Exceptions to This Rule
 
 Some state and international laws do not allow limitations on warranties or damages. If these laws apply to you, you might have additional rights and some of the above disclaimers or limitations might not apply.
 
@@ -279,7 +278,10 @@ Our failure to exercise or enforce any right or provision of these Legal Terms s
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-Startr LLC
-1309 Coffeen Avenue STE 4572
-Sheridan, WY 82801
-USA
+> Startr LLC
+>  
+>  1309 Coffeen Avenue STE 4572
+>  
+>  Sheridan, WY 82801
+>  
+>  USA
