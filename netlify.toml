@@ -3,9 +3,11 @@
 	command = "npm run build"
 
 [[headers]]
-	for = "/*.json" # applies CORS headers to all JSON files
+	# Define which paths this specific [[headers]] block will cover.
+	for = "/*"
+	
 	[headers.values]
-		Access-Control-Allow-Origin = "*" # see a list of allowed values here: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin
+		Access-Control-Allow-Origin = "*"
 
 [[plugins]]
 
