@@ -22,3 +22,9 @@
 
 	[plugins.inputs]
 		output_path = "reports/lighthouse/index.html"
+
+[[headers]]
+for = "/*.json" # applies CORS headers to all JSON files
+  [headers.values]
+    access-control-allow-origin = "*" # see a list of allowed values here: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin
+
