@@ -16,6 +16,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./support/classes/export.json": "/support/classes/export.json",
   });
+  // add the site.webmanifest file to the passthrough copy
+  eleventyConfig.addPassthroughCopy({
+    "./site.webmanifest": "/site.webmanifest",
+  });
   // Copy any image file to `_site`, via Glob pattern
   // Keeps the same directory structure.
   eleventyConfig.addPassthroughCopy("**/*.{png,jpg,jpeg,gif,svg,webp,ico,avif}");
