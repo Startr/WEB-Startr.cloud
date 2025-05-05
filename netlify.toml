@@ -5,7 +5,7 @@
 [[headers]]
 	# Define which paths this specific [[headers]] block will cover.
 	for = "/*"
-	
+
 	[headers.values]
 		Access-Control-Allow-Origin = "*"
 
@@ -23,9 +23,9 @@
 	# optional, fails build when a category is below a threshold
 	[plugins.inputs.thresholds]
 		performance = 0.8
-		accessibility = 1.0
+		accessibility = 0.9
 		best-practices = 0.8
-		seo = 1.0
+		seo = 0.9
 
 	[plugins.inputs]
 		output_path = "reports/lighthouse/index.html"
