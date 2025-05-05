@@ -12,6 +12,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./assets/": "/",
   });
+  // Let's also have a passthrough for /support/classes/export.json
+  eleventyConfig.addPassthroughCopy({
+    "./support/classes/export.json": "/support/classes/export.json",
+  });
   // Copy any image file to `_site`, via Glob pattern
   // Keeps the same directory structure.
   eleventyConfig.addPassthroughCopy("**/*.{png,jpg,jpeg,gif,svg,webp,ico,avif}");
