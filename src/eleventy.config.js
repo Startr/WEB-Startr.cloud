@@ -12,10 +12,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./assets/": "/",
   });
-  // Let's also have a passthrough for /support/classes/export.json
-  eleventyConfig.addPassthroughCopy({
-    "./support/classes/export.json": "/support/classes/export.json",
-  });
+  // Let's also have a passthrough for all json
+  eleventyConfig.addPassthroughCopy("**/*.json");
   // add the site.webmanifest file to the passthrough copy
   eleventyConfig.addPassthroughCopy({
     "./site.webmanifest": "/site.webmanifest",
