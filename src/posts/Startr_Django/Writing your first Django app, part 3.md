@@ -1,3 +1,7 @@
+---
+templateEngineOverride: false
+---
+
 # Writing your first Django app, part 3
 
 
@@ -116,7 +120,7 @@ There's a problem here, though: the page's design is hard-coded in the view. If 
 
 First, create a directory called `templates` in your `polls` directory. Django will look for templates in there.
 
-Your project's [`TEMPLATES`] setting describes how Django will load and render templates. The default settings file configures a `DjangoTemplates` backend whose [`APP_DIRS`] option is set to `True`. By convention `DjangoTemplates` looks for a "templates" subdirectory in each of the [`INSTALLED_APPS`].
+Your project's [`TEMPLATES`] setting describes how Django will load and render templates. The default settings file configures a `DjangoTemplates` backend whose [`APP_DIRS`] option is set to `True`. By convention `DjangoTemplates` looks for a "templates" subdirectory in each of the [`INSTALLED_APPS`].
 
 Within the `templates` directory you have just created, create another directory called `polls`, and within that create a file called `index.html`. In other words, your template should be at `polls/templates/polls/index.html`. Because of how the `app_directories` template loader works as described above, you can refer to this template within Django as `polls/index.html`.
 

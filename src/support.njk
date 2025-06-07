@@ -1,0 +1,211 @@
+---
+layout: base
+permalink: null
+eleventyComputed: {}
+title: "Startr.cloud: Get help from the Startr team"
+description: >-
+  There are no stupid questions. For project inquiries, technical support, collaboration opportunities, or
+  other questions, contact us and we'll help you create something wonderful.
+og:
+  site_name: Startr.cloud
+  title: Get help from the Startr team
+  description: >-
+    There are no stupid questions. For project inquiries, technical support, collaboration opportunities, or
+    other questions, contact us and we'll help you create something wonderful.
+  image: /assets/social.webp
+  url: support/
+  type: website
+twitter:
+  title: Get help from the Startr team
+  description: >-
+    There are no stupid questions. For project inquiries, technical support, collaboration opportunities, or
+    other questions, contact us and we'll help you create something wonderful.
+  image: /assets/social.webp
+  card: summary_large_image
+  creator: "@startrcloud"
+  site: "@startrcloud"
+  image_alt: Startr.cloud
+canonical: support/
+robots: noodp
+themeColor: "#1b1b1b"
+---
+<!-- Add Page Wrapper -->
+<div style="--m:auto;">
+  <div class="statement">
+    <section>
+      <header>
+        <h1>Creative minds, ready to help</h1>
+      </header>
+      <article>
+        <p>
+          <strong>There are no stupid questions.</strong> For project inquiries, technical support, collaboration opportunities, or other questions, contact us and <strong>we'll help you create something wonderful.</strong>
+        </p>
+      </article>
+    </section>
+  </div>
+
+  <div class="statement space-top--neutral">
+    <section>
+      <article>
+        <p>
+          <strong class="highlight">We're always working on something new and exciting!</strong><br>
+          Whether it's tools, code, creative architecture, or new adventures, we're here to help bring your ideas to life.
+        </p>
+      </article>
+    </section>
+  </div>
+
+
+  <div class="support space-top--x-large">
+    <div class="support__form" style="--minw:30rem; --m:auto;">
+      <script type="text/javascript" src="//nota.startr.cloud/form/generate.js?id=4"></script>
+      <!-- a small script that rewrites the form wrapping any text "Required" with a strong tag -->
+      <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+          // Get the form area first to scope all operations
+          var formArea = document.querySelector('.support__form');
+          if (!formArea) return;
+          
+          // Handle existing strong tags with "Required" text within support__form only
+          var requiredLabels = formArea.querySelectorAll('label strong');
+          requiredLabels.forEach(function(label) {
+            if (label.textContent.trim() === 'Required') {
+              label.innerHTML = '<strong>Required</strong><br>';
+            }
+          });
+          
+          // Handle any text nodes that contain "Required" from the nota script
+          function processTextNodes(element) {
+            var walker = document.createTreeWalker(
+              element,
+              NodeFilter.SHOW_TEXT,
+              null,
+              false
+            );
+            
+            var textNodes = [];
+            var node;
+            while (node = walker.nextNode()) {
+              if (node.textContent.includes('Required')) {
+                textNodes.push(node);
+              }
+            }
+            
+            textNodes.forEach(function(textNode) {
+              var text = textNode.textContent;
+              if (text.trim() === 'Required' || text.includes('Required')) {
+                var newHTML = text.replace(/Required/g, '<strong>Required</strong><br>');
+                var tempDiv = document.createElement('div');
+                tempDiv.innerHTML = newHTML;
+                while (tempDiv.firstChild) {
+                  textNode.parentNode.insertBefore(tempDiv.firstChild, textNode);
+                }
+                textNode.parentNode.removeChild(textNode);
+              }
+            });
+          }
+          
+          // Process the entire form area
+          processTextNodes(formArea);
+          
+          // Use MutationObserver to catch dynamically added content from nota script
+          var observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+              mutation.addedNodes.forEach(function(node) {
+                if (node.nodeType === Node.ELEMENT_NODE) {
+                  processTextNodes(node);
+                }
+              });
+            });
+          });
+          
+          observer.observe(formArea, { childList: true, subtree: true });
+        });
+      </script>
+    </div>
+
+  </div>
+
+
+</div>
+<div class="marquee marquee--left space-bottom--xxx-large space-top--xxx-large">
+
+  <a href="/" aria-hidden="true" tabindex="-1" style="--rotate: 4deg; --rotate-hvr: 1deg;">
+    <ul style="--lis:none">
+
+      <li>"Amazing creative solutions"</li>
+
+      <li>"Truly innovative tools"</li>
+
+      <li>"Perfect for our projects"</li>
+
+      <li>"Simple, clean, powerful"</li>
+
+      <li>"So glad we found Startr"</li>
+
+      <li>"The perfect development solution"</li>
+
+      <li>"Really great framework"</li>
+
+      <li>"Outstanding design"</li>
+
+      <li>"Best tools for web development"</li>
+
+      <li>"Awesome architecture"</li>
+
+      <li>"Gets better with every update"</li>
+
+      <li>"Great development experience"</li>
+
+      <li>"Excellent framework"</li>
+
+      <li>"Gold standard for CSS utilities"</li>
+
+      <li>"Brilliant creative solutions"</li>
+
+      <li>"Clean and intuitive"</li>
+
+      <li>"Fantastic development tools"</li>
+
+      <li>"Well organized and powerful"</li>
+
+      <li>"Amazing creative solutions"</li>
+
+      <li>"Truly innovative tools"</li>
+
+      <li>"Perfect for our projects"</li>
+
+      <li>"Simple, clean, powerful"</li>
+
+      <li>"So glad we found Startr"</li>
+
+      <li>"The perfect development solution"</li>
+
+      <li>"Really great framework"</li>
+
+      <li>"Outstanding design"</li>
+
+      <li>"Best tools for web development"</li>
+
+      <li>"Awesome architecture"</li>
+
+      <li>"Gets better with every update"</li>
+
+      <li>"Great development experience"</li>
+
+      <li>"Excellent framework"</li>
+
+      <li>"Gold standard for CSS utilities"</li>
+
+      <li>"Brilliant creative solutions"</li>
+
+      <li>"Clean and intuitive"</li>
+
+      <li>"Fantastic development tools"</li>
+
+      <li>"Well organized and powerful"</li>
+
+    </ul>
+  </a>
+
+</div>
