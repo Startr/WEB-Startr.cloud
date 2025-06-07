@@ -1,6 +1,20 @@
 ---
 title: startr.cloud
 ---
+{% if redirect %}
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url={{ redirect }}">
+    <script>window.location.href = "{{ redirect }}";</script>
+    <title>Redirecting…</title>
+  </head>
+  <body>
+    <p>If you are not redirected automatically, follow the <a href="{{ redirect }}">link to the new page</a>.</p>
+  </body>
+  </html>
+{% else %}
 <!DOCTYPE html>
 <html lang="en">
   {% include "component/head.njk" %}
@@ -20,3 +34,4 @@ title: startr.cloud
     </body>
   </html>
 </html>
+{% endif %}

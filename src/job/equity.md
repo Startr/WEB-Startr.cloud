@@ -1,4 +1,5 @@
 {style="--m: 0 0.6em"}
+
 # Startr.Team Equity offer example and table
 
 ---
