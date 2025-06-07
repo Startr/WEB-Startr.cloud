@@ -8,3 +8,7 @@
   - [x] Remove old src/TOS.md file
   - [x] Test that new terms page renders correctly
   - [x] Verify all links work properly
+
+
+## [Styling/Content Review] TODOs
+- [ ] **Review CSS Classes in support.njk**: Investigate `space-bottom--xxx-large` and `space-top--xxx-large` classes in `src/support.njk` (line 130) for appropriate usage or if they are placeholders.
