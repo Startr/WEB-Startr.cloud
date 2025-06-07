@@ -12,14 +12,7 @@
 
 ## [Styling/Content Review] TODOs
 - [ ] **Review CSS Classes in support.njk**: Investigate `space-bottom--xxx-large` and `space-top--xxx-large` classes in `src/support.njk` (line 130) for appropriate usage or if they are placeholders.
-
-## [Build & Config] TODOs
-- [ ] **Standardize Package Manager:** Review `bun` vs `npm`/`npx` usage across `README.md`, `package.json`, and `netlify.toml`. Choose one and update all scripts and documentation.
-- [ ] **Test `package.json` Scripts:** Verify all scripts (`test`, `start`, `build`, `buildfresh`, `srvsrc`, etc.) are functional. Implement actual tests for the `test` script.
-- [ ] **Investigate/Remove `startr_src` Scripts:** Clarify the purpose of `startstartr`, `buildstartr`, etc. in `package.json` and remove if they reference a non-existent `startr_src` or are legacy.
-- [ ] **Update Dependencies:** Check `package.json` for outdated dependencies and update them, ensuring compatibility.
-- [ ] **Refine Eleventy Passthrough Copies:** In `src/eleventy.config.js`, make file passthrough copy rules more specific to avoid copying unnecessary files to `dist`.
-- [ ] **Review Eleventy Plugins:** Ensure all Eleventy plugins are used effectively and configured optimally in `src/eleventy.config.js`.
+    - [ ] Likely remove and migrate to https://startr.style styling as per our conventions. 
 
 ## [Content & Structure] TODOs
 - [ ] **Review `src/code-of-conduct.md`:** Ensure it's current and appropriately linked.
@@ -32,6 +25,18 @@
 - [ ] **Clean `src/posts/` Directory:** Remove backup files ending in `~`.
 - [ ] **Review `src/support/classes/upcoming.json`:** Ensure data structure is optimal and the "upcoming classes" feature is implemented or planned.
 - [ ] **Assess `src/test/image.jpeg`:** Determine if this test asset is still needed.
+
+
+## [Build & Config] TODOs
+- [ ] **Standardize Package Manager:** Review `bun` vs `npm`/`npx` usage across `README.md`, `package.json`, and `netlify.toml`. Choose one and update all scripts and documentation.
+    - `bun` for all local dev at this point 
+    - `npx` for deplyment on cdns
+- [ ] **Test `package.json` Scripts:** Verify all scripts (`test`, `start`, `build`, `buildfresh`, `srvsrc`, etc.) are functional. Implement actual tests for the `test` script.
+- [ ] **Investigate/Remove `startr_src` Scripts:** Clarify the purpose of `startstartr`, `buildstartr`, etc. in `package.json` and remove if they reference a non-existent `startr_src` or are legacy.
+- [ ] **Update Dependencies:** Check `package.json` for outdated dependencies and update them, ensuring compatibility.
+- [ ] **Refine Eleventy Passthrough Copies:** In `src/eleventy.config.js`, make file passthrough copy rules more specific to avoid copying unnecessary files to `dist`.
+- [ ] **Review Eleventy Plugins:** Ensure all Eleventy plugins are used effectively and configured optimally in `src/eleventy.config.js`.
+
 
 ## [Netlify] TODOs
 - [ ] **Monitor Lighthouse Reports:** Regularly check reports in `reports/lighthouse/index.html` against thresholds in `netlify.toml`.
