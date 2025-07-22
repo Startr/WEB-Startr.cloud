@@ -194,7 +194,7 @@ We will maintain certain data that you transmit to the Services for the purpose 
 ### Billing
 - Subscription fees are billed in advance
 - Payment is due upon subscription activation or renewal
-- All fees are non-refundable except as stated in our Refund Policy
+- All fees are non-refundable except as stated in our [Refund Policy](./refund.md)
 
 ### Price Changes
 - We may change subscription prices with 30 days advance notice
@@ -326,7 +326,7 @@ The Parties agree that the following Disputes are not subject to the above provi
 ## Miscellaneous
 
 ### Entire Agreement
-These Terms, along with our Privacy Policy and Refund Policy, constitute the entire agreement between you and Startr LLC.
+These Terms, along with our [Privacy Policy](./) and [Refund Policy](./refund.md), constitute the entire agreement between you and Startr LLC.
 
 These Legal Terms and any policies or operating rules posted by us on the Services or in respect to the Services constitute the entire agreement and understanding between you and us.
 

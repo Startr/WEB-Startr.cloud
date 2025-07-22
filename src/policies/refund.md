@@ -10,12 +10,12 @@ At Startr LLC, we want you to be completely satisfied with your experience acros
 
 ### What's Covered
 - **Full refunds** within 30 days of your initial payment for any Startr LLC service
-- **Prorated refunds** for annual subscriptions cancelled within 30 days
+- **Prorated refunds** for annual subscriptions cancelled within 60 days
 - **No questions asked** - if you're not satisfied, we'll refund your payment
 - **All Services** - This policy applies to Startr.Cloud, Sage.is, and other Startr LLC services
 
 ### What's Not Covered
-- Refund requests made after 30 days from initial payment
+- Refund requests made after 60 days from initial payment
 - Custom development work or professional services
 - Third-party integrations or add-ons purchased separately
 - Accounts terminated for violation of Terms of Service
@@ -37,7 +37,7 @@ For annual subscriptions:
 ## Account Access
 
 - Your account remains active during the refund processing period
-- Data export is available for 30 days after refund completion
+- Data export is available for a minimum of 15 days after refund completion
 - Account access is terminated once refund is processed
 
 ## Special Circumstances
@@ -47,7 +47,7 @@ For annual subscriptions:
 - Contact our education team for custom arrangements
 
 ### Non-Profit Organizations  
-- Extended 45-day evaluation period available
+- Extended 90-day evaluation period available
 - Special pricing and refund terms may apply
 
 ### Enterprise Customers
