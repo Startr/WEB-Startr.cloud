@@ -20,7 +20,7 @@
 - [ ] **Optimize Images:**
     - [ ] Ensure optimal web formats and sizes for logos (`logo.png`, `logo.webp`). Remove `logo.xcf` from assets? Maybe but it's good for canonical access and for creating new ones.. 
     - [ ] Review and optimize other images in `src/assets/` and `src/img/`.
-- [ ] **Review Policy Pages:** Check `src/Contact-Us.md`, `src/Cookie Policy.md`, `src/Privacy-Policy.md`, `src/policies/refund.md`, `src/policies/security.md`, `src/policies/terms.md` for completeness and ensure they are linked.
+- [x] **Review Policy Pages:** Check `src/Contact-Us.md`, `src/Cookie Policy.md`, `src/Privacy-Policy.md`, `src/policies/refund.md`, `src/policies/security.md`, `src/policies/terms.md` for completeness and ensure they are linked.
 - [ ] **Clarify `src/job/` Content:** Determine if `.md` files in `src/job/` (e.g., `sweat-equity-offer-template.md`) should be pages or downloadable resources.
 - [ ] **Clean `src/posts/` Directory:** Remove backup files ending in `~`.
 - [ ] **Review `src/support/classes/upcoming.json`:** Ensure data structure is optimal and the "upcoming classes" feature is implemented or planned.
