@@ -6,10 +6,10 @@
 
 At Startr LLC, we want you to be completely satisfied with your experience across all our services. We offer a straightforward refund policy to ensure you can try our services with confidence.
 
-## 30-Day Money-Back Guarantee
+## 60-Day Money-Back Guarantee
 
 ### What's Covered
-- **Full refunds** within 30 days of your initial payment for any Startr LLC service
+- **Full refunds** within 60 days of your initial payment for any Startr LLC service
 - **Prorated refunds** for annual subscriptions cancelled within 60 days
 - **No questions asked** - if you're not satisfied, we'll refund your payment
 - **All Services** - This policy applies to Startr.Cloud, Sage.is, and other Startr LLC services
