@@ -35,7 +35,7 @@ These rules apply everywhere in our community. If you represent us, they apply t
 
 ## Enforcement
 
-Report issues to hello@openwebui.com. We will act promptly.
+Report issues to [info@startr.cloud](mailto:info@startr.cloud). We will act promptly.
 
 We will protect your privacy.
 

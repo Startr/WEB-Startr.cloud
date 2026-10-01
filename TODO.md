@@ -8,6 +8,11 @@
   - [x] Remove old src/TOS.md file
   - [x] Test that new terms page renders correctly
   - [x] Verify all links work properly
+  - [ ] `src/TOS.md` still exists, though the item above marks it removed (found 2026-10-01).
+- [x] **Code of conduct reports reach us** (2026-10-01): `src/code-of-conduct.md` sent reports to `hello@openwebui.com`, copied with Open WebUI's text. Now `info@startr.cloud`.
+  - [ ] Fix the attribution: it cites startr.cloud's own page as its source. The leftover address says the text came from Open WebUI; name the real source and its licence.
+  - [ ] Remove the drafting note on line 58 ("This final version includes...").
+  - [ ] Optional: a dedicated `conduct@startr.cloud` Email Routing rule, so reports stay out of the general inbox.
 
 
 ## [Styling/Content Review] TODOs
