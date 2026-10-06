@@ -30,6 +30,7 @@
 - [ ] **Clean `src/posts/` Directory:** Remove backup files ending in `~`.
 - [ ] **Review `src/support/classes/upcoming.json`:** Ensure data structure is optimal and the "upcoming classes" feature is implemented or planned.
 - [ ] **Assess `src/test/image.jpeg`:** Determine if this test asset is still needed.
+- [ ] **Footer links `/privacy` and `/cookies` return 404** (`src/_includes/component/footer.njk:17,20`): point them at `/policies/privacy/` and the cookie page (found 2026-10-06).
 
 
 ## [Build & Config] TODOs
@@ -41,6 +42,7 @@
 - [ ] **Update Dependencies:** Check `package.json` for outdated dependencies and update them, ensuring compatibility.
 - [ ] **Refine Eleventy Passthrough Copies:** In `src/eleventy.config.js`, make file passthrough copy rules more specific to avoid copying unnecessary files to `dist`.
 - [ ] **Review Eleventy Plugins:** Ensure all Eleventy plugins are used effectively and configured optimally in `src/eleventy.config.js`.
+- [ ] **Dependabot: 44 open alerts (2 critical, 26 high):** all in `package-lock.json` dev scope (tar-fs, liquidjs, js-yaml, handlebars, sharp); also decide which lockfile builds (`package-lock.json` or `bun.lockb`) (found 2026-10-06).
 
 
 ## [Netlify] TODOs
